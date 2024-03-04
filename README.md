@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Advanced techniques in Deep Learning, focusing on Neural Networks. Cloud-native technologies, aiming to get certified in AWS or Azure. Improving my full-stack development skills with a focus on MERN stack (MongoDB, Express.js, React, Node.js).
 - 📫 How to reach me
  - Let's connect on [LinkedIn](www.linkedin.com/in/gurpinder-singh-9050aa19b)
- - Shoot me an email at sabdhu80gurpinder@gamil.com
+ - Shoot me an email at sandhu80gurpinder@gamil.com
 
 - ⚡ Fun fact:  I can solve a Rubik's cube in under 2 minutes. I'm a huge fan of sci-fi novels, especially works by Isaac Asimov and Philip K. Dick. On weekends, you'll find me hiking, or with my nose in a book at a quiet café.
 
