@@ -6,7 +6,7 @@
  - Shoot me an email at sandhu80gurpinder@gamil.com
 
 - ⚡ Fun fact:  I can solve a Rubik's cube in under 2 minutes. I'm a huge fan of sci-fi novels, especially works by Isaac Asimov and Philip K. Dick. On weekends, you'll find me hiking, or with my nose in a book at a quiet café.
-- Languages and Tools:
+## Languages and Tools:
 Java, C++, SQL, Android Studio, firebase, HTML, CSS and Javascript 
 
 Thank you for visiting my profile. Feel free to browse my repositories and let's get in touch!
