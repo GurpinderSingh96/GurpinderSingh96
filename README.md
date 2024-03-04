@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gurpinder Singh
+##                       👋 Hi, I’m Gurpinder Singh
 - 👀 I’m interested in Web development, especially with JavaScript frameworks like React and Angular. Building and deploying microservices using Docker and Kubernetes. Data Science and Machine Learning, and their applications in solving real-world problems.
 - 🌱 I’m currently learning Advanced techniques in Deep Learning, focusing on Neural Networks. Cloud-native technologies, aiming to get certified in AWS or Azure. Improving my full-stack development skills with a focus on MERN stack (MongoDB, Express.js, React, Node.js).
 - 📫 How to reach me
